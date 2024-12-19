@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734607749 source:d:\tugas besar struktur data\3.015\implementation.cpp
+	"header.h"
+
+1734607749 d:\tugas besar struktur data\3.015\header.h
+	<iostream>
+	<string>
+
+1734607749 source:d:\tugas besar struktur data\3.015\main.cpp
+	"header.h"
+
